@@ -8,7 +8,7 @@ const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*Dette er et filnavn for logo i /images/ (Hvis du laster opp ny logo med annet navn, må du endre denne verdien)*/
         serverName: "Eventyrskogen", /*Servernavn*/
-        serverIp: "spill.eventyrskogen.net", /*Server IP (hvis du vil legge til online bruker teller, må du ha true på enable-status og enable-query i server.properties)*/
+        serverIp: "eventyrskogen.net", /*Server IP (hvis du vil legge til online bruker teller, må du ha true på enable-status og enable-query i server.properties)*/
         discordServerID: "1232611050164060222" /*Din server ID (hvis du vil legge til online bruker teller, må du ha aktivert Discord server widget)*/
     },
 
