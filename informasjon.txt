@@ -1,0 +1,10 @@
+Dette er da en side for eventyrskogen.net lage av @malvineikemo
+
+Jeg vil bare påpeke at siden er 50% generert med AI, 
+mest i CSS-kodene, man kan se det pga bruken av engelse variabler osv.
+
+Bugs eller annet? Kontakt meg på discord (malvineikemo#1195)
+
+Siden vil være mer responsiv med bruken av ParcelJS og var bygget med det som rammeverk, dette er bare HTML-koden til siden.
+
+Stab siden kan være buggy, er egt ikke så flink med bruk av JS og CSS ilag, men skal funke helt greit.

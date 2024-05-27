@@ -1,0 +1,8 @@
+Alt skal loggføres med dato, navn og endringer
+
+00/00/0000 - #### - ######
+
+16/05/2024 - malvineikemo - Satt opp rammeverk og laget alle filene som trengs
+20/05/2024 - malvineikemo - Bygget en basic index.html side sammen med CoPilot
+21/05/2024 - malvineikemo - Brukt mye av samme koden fra index.html til å lage resten av sidene og CSS kode for hver enkelt sammen med CoPilot
+21/05/2024 - malvineikemo - Laget funksjoner for IP kopiering, stab liste (ikke fullført) & Counter for Ingame og discord
